@@ -1,6 +1,6 @@
-# QR component
+# 3-column preview card 
 
-> This is a solution to the [Profile card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ).
+> This is a solution to the [Order summary component challenge](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj).
 
 ![screenshot](./images/screenshot.png)
 
@@ -9,11 +9,14 @@ I created it to improve my frontend skills 😃
 ## Built With
 
 - HTML
-- CSS 
+- SASS
+- CSS
+- JavaScript
+- JQuery
 
 ## Live Demo
 
-[Live Demo Link]()
+[Live Demo Link](https://tomekswitecki.github.io/order-summary-component/)
 
 ## Authors
 
@@ -21,7 +24,8 @@ I created it to improve my frontend skills 😃
 
 - GitHub: [@TomekSwitecki](https://github.com/TomekSwitecki)
 - Twitter: [@COCOstudio9](https://twitter.com/COCOstudio9)
-
+- Dribble: [Tomek Świtecki](https://dribbble.com/Switecki)
+- Frontend Mentor: [@TomekSwitecki](https://www.frontendmentor.io/profile/TomekSwitecki)
 
 ## 🤝 Contributing
 
