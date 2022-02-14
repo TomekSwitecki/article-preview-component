@@ -4,6 +4,7 @@
 
 ![screenshot](./design/desktop-active-state.jpg)
 ![screenshot](./design/mobile-active-state.jpg)
+![screenshot](./design/desktop-preview.jpg)
 
 I created it to improve my frontend skills 😃
 
