@@ -1,6 +1,6 @@
 # 3-column preview card 
 
-> This is a solution to the [Order summary component challenge](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj).
+> This is a solution to the [Article preview component challenge](https://www.frontendmentor.io/challenges/article-preview-component-dYBN_pYFT).
 
 ![screenshot](./images/screenshot.png)
 
