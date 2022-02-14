@@ -1,8 +1,9 @@
-# 3-column preview card 
+# Article preview component
 
 > This is a solution to the [Article preview component challenge](https://www.frontendmentor.io/challenges/article-preview-component-dYBN_pYFT).
 
-![screenshot](./images/screenshot.png)
+![screenshot](./design/desktop-active-state.jpg)
+![screenshot](./design/mobile-active-state.jpg)
 
 I created it to improve my frontend skills 😃
 
