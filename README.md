@@ -17,7 +17,7 @@ I created it to improve my frontend skills 😃
 
 ## Live Demo
 
-[Live Demo Link](https://tomekswitecki.github.io/order-summary-component/)
+[Live Demo Link](https://tomekswitecki.github.io/article-preview-component/)
 
 ## Authors
 
